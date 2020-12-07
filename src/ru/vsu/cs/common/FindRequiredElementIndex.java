@@ -1,4 +1,4 @@
-package ru.vsu.cs.gui.common;
+package ru.vsu.cs.common;
 
 public class FindRequiredElementIndex {
     public static int findRequiredElementIndex(int[] arr) {

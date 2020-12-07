@@ -1,6 +1,6 @@
 package ru.vsu.cs.gui.controller;
 
-import ru.vsu.cs.gui.common.FindRequiredElementIndex;
+import ru.vsu.cs.common.FindRequiredElementIndex;
 import ru.vsu.cs.gui.utils.ArrayUtils;
 
 import javax.swing.*;

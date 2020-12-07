@@ -1,6 +1,6 @@
 package ru.vsu.cs.console;
 
-import ru.vsu.cs.gui.common.FindRequiredElementIndex;
+import ru.vsu.cs.common.FindRequiredElementIndex;
 
 import java.util.Scanner;
 

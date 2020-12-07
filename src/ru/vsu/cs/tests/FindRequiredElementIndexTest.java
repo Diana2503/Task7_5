@@ -1,8 +1,8 @@
-package ru.vsu.cs.gui;
+package ru.vsu.cs.tests;
 
 import org.junit.Assert;
 import org.junit.Test;
-import ru.vsu.cs.gui.common.FindRequiredElementIndex;
+import ru.vsu.cs.common.FindRequiredElementIndex;
 
 
 public class FindRequiredElementIndexTest {
